@@ -1,0 +1,6 @@
+[ 2026-05-20 02:35:24,563 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-05-20 02:35:24,592 ] 107 dagshub - INFO - Accessing as db7062
+[ 2026-05-20 02:35:25,147 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/db7062/networksecurity "HTTP/1.1 200 OK"
+[ 2026-05-20 02:35:25,647 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2026-05-20 02:35:25,649 ] 107 dagshub - INFO - Initialized MLflow to track repo "db7062/networksecurity"
+[ 2026-05-20 02:35:25,649 ] 107 dagshub - INFO - Repository db7062/networksecurity initialized!
